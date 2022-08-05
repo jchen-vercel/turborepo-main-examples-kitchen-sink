@@ -5,7 +5,7 @@ export default function Store() {
   log("Hey! This is Home.");
   return (
     <div>
-      <h1>Store6</h1>
+      <h1>Store7</h1>
       <CounterButton />
       <NewTabLink href="https://turborepo.org/">
         Built With TurboRepo

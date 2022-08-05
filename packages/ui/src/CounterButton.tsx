@@ -11,7 +11,7 @@ export const CounterButton = () => {
       }}
     >
       <p>
-        This5 is component is from <code>ui</code>
+        This6 is component is from <code>ui</code>
       </p>
       <p>
         <button type="button" onClick={() => setCount((c) => c + 1)}>
